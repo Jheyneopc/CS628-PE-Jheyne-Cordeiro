@@ -1,3 +1,16 @@
+PE04
+
+Input:
+The program gets information from the user through the console (the text-based screen where we type). The user gives the necessary information, which could be numbers, words, or choices. The program checks the information because it can't have no errors, like the wrong type of data or missing details.
+
+Process: 
+When the program has the information, it processes it according to the given instructions. This might include doing calculations, making decisions based on conditions, repeating actions (loops), or calling functions (smaller sets of instructions). The program systematically turns the input into useful results, handling the data carefully and accurately.
+
+Output:
+After processing the data, the program shows the result on the console. This result could be calculated numbers, neatly formatted text, or helpful messages based on what the user input. The program makes sure the output is clear and easy to understand.
+
+
+
 PE03
 
 Input:
