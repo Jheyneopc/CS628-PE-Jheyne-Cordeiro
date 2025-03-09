@@ -1,3 +1,14 @@
+PE05
+Input:
+The Recipe Finder is a great app that allows users to input recipe details such as name, ingredients, and cooking instructions, as well as the ability to update or delete recipes. Information is collected through forms on the frontend, built with React.js.
+
+Process:
+When adding a new recipe, the React frontend sends the data to an Express.js backend that stores the recipe in MongoDB Atlas. React Router helps users navigate between different pages, such as Recipe List, Recipe Details, Add Recipe, and Update/Delete pages. The useParams hook fetches individual recipe details, and the backend uses the MongoDB Node.js driver to handle CRUD (Create, Read, Update, Delete) operations.
+
+Output: 
+When recipes are added, the app displays a list of recipes, detailed pages, and confirmation messages when updated or deleted.
+
+
 PE04
 
 Input:
